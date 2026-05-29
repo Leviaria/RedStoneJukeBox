@@ -1,0 +1,5 @@
+name: RedStoneJukeBox
+main: me.levaria.redstonejukebox.RedStoneJukeBox
+version: 1.0
+author: Jasper
+description: Lets redstone toggle jukebox music after a disc is inserted.
